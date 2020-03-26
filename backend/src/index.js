@@ -5,7 +5,9 @@ const routes = require('./routes');
 
 const app = express();
 
-// app.use(cors);
+app.use(cors({
+    // origin: ""
+}));
 app.use(express.json()); // <- Converte corpo requisições HTTP para JSON
 app.use(routes);
 
