@@ -1,2 +1,2 @@
 # Be The Hero
-Caso de estudo desenvolvido na Semana OmniStack 11 da RocketSeat.
+Study application developed at RocketSeat OmniStack Week 11
